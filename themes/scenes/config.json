@@ -1,0 +1,9 @@
+{
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 60,
+  "wallpaper_dim": 15,
+  "dock_glass": true,
+  "dock_opacity": 70,
+  "fade_rows": true,
+  "ambient_glow": false
+}
